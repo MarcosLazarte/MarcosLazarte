@@ -1,12 +1,11 @@
-### Hi there, I'm Marcos - aka [Aky][website] 👋 
+### Holangas, Soy Marcos - aka [Aky][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Aky_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAky_io&screen_name=Aky_io)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Soy un Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Hace poco desarrolle una página con reacjs: [theVoyager][course]!
+- 🌱 Estoy, actualmente, aprendiendo todo lo que puedo 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
@@ -46,8 +45,8 @@
 ---
 
 [website]: https://marcoslazarte.github.io/TPFinal_DesarrolloWeb-Coderhouse/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[course]: https://marcoslazarte.github.io/TPFinal_ReactJS-Coderhouse/
+[twitter]: https://twitter.com/Aky_io
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
