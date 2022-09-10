@@ -5,10 +5,9 @@
 ## Soy un Husbando, Noviazo, Desarrollador, y Entusiasta!!
 
 - 🔭 Hace poco desarrolle una página con reacjs: [theVoyager][course]!
-- 🌱 Estoy, actualmente, aprendiendo todo lo que puedo 🤣
-- 👯 Busco poder colaborar con otros desarrolladores
-- 🥅 2021 Goals: Conseguir trabajo donde pueda seguir creciendo
-- ⚡ Datazo: Amo los juegos
+- 🌱 En que busco crecer: 
+- 🥅 2022 Espectativas: Pulir ReactJS.
+- ⚡ Dato: Amo los videojuegos y a Foop.
 
 ### Contactame:
 
