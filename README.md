@@ -2,7 +2,7 @@
 
 ## Buenas, el gusto de saludarte!
 
-- 🔭 Hace poco desarrolle una página con reacjs: [foopGames][course]!
+- 🔭 Actualmente desarrollando una página en ReacJS: [foopGames][course]!
 - 🌱 En que busco crecer: Mejorar mi capacidad de realizar multitareas.
 - 🥅 2022 Espectativas: Pulir ReactJS.
 - ⚡ Dato: Amo los videojuegos y a Foop.
