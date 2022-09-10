@@ -1,7 +1,5 @@
 ### Holangas, Soy Marcos - aka [Aky][website] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Aky_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAky_io&screen_name=Aky_io)
-
 ## Buenas, el gusto de saludarte!
 
 - 🔭 Hace poco desarrolle una página con reacjs: [theVoyager][course]!
@@ -37,7 +35,6 @@
 
 ---
 
-[website]: https://marcoslazarte.github.io/TPFinal_DesarrolloWeb-Coderhouse/
-[course]: https://marcoslazarte.github.io/TPFinal_ReactJS-Coderhouse/
-[twitter]: https://twitter.com/Aky_io
+[website]: https://marcoslazarte.github.io/portafolioA2/
+[course]: https://marcoslazarte.github.io/foopGames/
 [linkedin]: https://www.linkedin.com/in/lazarte-aky/
