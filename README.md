@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aky_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAky_io&screen_name=Aky_io)
 
-## Soy un Husbando, Noviazo, Desarrollador, y Entusiasta!!
+## Buenas, el gusto de saludarte!
 
 - 🔭 Hace poco desarrolle una página con reacjs: [theVoyager][course]!
 - 🌱 En que busco crecer: 
