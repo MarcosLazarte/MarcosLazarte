@@ -2,15 +2,14 @@
 
 ## Buenas, el gusto de saludarte!
 
-- 🔭 Hace poco desarrolle una página con reacjs: [theVoyager][course]!
-- 🌱 En que busco crecer: 
+- 🔭 Hace poco desarrolle una página con reacjs: [foopGames][course]!
+- 🌱 En que busco crecer: Mejorar mi capacidad de realizar multitareas.
 - 🥅 2022 Espectativas: Pulir ReactJS.
 - ⚡ Dato: Amo los videojuegos y a Foop.
 
 ### Contactame:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
